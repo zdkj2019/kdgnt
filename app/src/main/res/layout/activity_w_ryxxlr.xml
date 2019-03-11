@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ededed"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/part"
+        android:orientation="vertical" >
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="姓名："
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/et_name"
+                style="@style/edittext_sty"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="" />
+
+            <ImageView
+                style="@style/text_image"
+                android:contentDescription="@string/todo" />
+        </LinearLayout>
+
+        <View style="@style/view_sty" />
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="身份证号："
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/et_gh"
+                style="@style/edittext_sty"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="" />
+
+            <ImageView
+                style="@style/text_image"
+                android:contentDescription="@string/todo" />
+        </LinearLayout>
+
+        <View style="@style/view_sty" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/include_botto"
+        layout="@layout/bottom_button" />
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:clickable="false"
+    android:focusable="false"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:background="@android:color/white"
+        android:clickable="false"
+        android:focusable="false" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none" >
+
+            <TableLayout
+                android:id="@+id/tablelayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#E8EBE2">
+
+                <TableRow
+                    android:id="@+id/tableRow1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        style="@style/table_title"
+                        android:text="公司机构" />
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        style="@style/table_title"
+                        android:text="维护厂家" />
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        style="@style/table_title"
+                        android:text="未处理数量" />
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        style="@style/table_title"
+                        android:text="处理中数量" />
+
+                    <TextView
+                        android:id="@+id/textView7"
+                        style="@style/table_title"
+                        android:text="完工数量" />
+
+                    <TextView
+                        android:id="@+id/textView8"
+                        style="@style/table_title"
+                        android:text="超时数量" />
+
+                    <TextView
+                        android:id="@+id/textView9"
+                        style="@style/table_title"
+                        android:text="未超时数量" />
+                </TableRow>
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/content_bg"
+            android:orientation="vertical" >
+
+            <RelativeLayout style="@style/tablerow_sty" >
+
+                <TextView
+                    android:id="@+id/TextV1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="时　　间:"
+                    android:textColor="@android:color/black" />
+
+                <TextView
+                    android:id="@+id/sp_yytbz"
+                    style="@style/edittext_sty"
+                    android:layout_toLeftOf="@+id/dr"
+                    android:layout_toRightOf="@+id/TextV1"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/dr"
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="#3F8FED"
+                    android:gravity="center"
+                    android:text="提交"
+                    android:textColor="@android:color/white"
+                    android:textSize="13sp" />
+            </RelativeLayout>
+
+            <View style="@style/view_sty" />
+
+            <!--
+              <include
+                android:id="@+id/include_botto"
+                layout="@layout/bottom_button" />
+            -->
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

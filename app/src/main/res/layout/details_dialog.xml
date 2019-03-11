@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/content_bg" >
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="420.0dip" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TableRow android:gravity="center_horizontal" >
+
+                <TextView
+                    style="@style/label1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="备件名称" />
+            </TableRow>
+
+            <TableRow android:gravity="center_horizontal" >
+
+                <Spinner
+                    android:id="@+id/bjmc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                     />
+            </TableRow>
+
+            <TableRow android:gravity="center_horizontal" >
+
+                <TextView
+                    style="@style/label1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="数量" />
+            </TableRow>
+
+            <TableRow android:gravity="center_horizontal" >
+
+                <EditText
+                    android:id="@+id/number"
+                    style="@style/content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="number" />
+            </TableRow>
+
+<!--             <TableRow android:gravity="center_horizontal" > -->
+
+<!--                 <TextView -->
+<!--                     style="@style/label1" -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:text="单价" /> -->
+<!--             </TableRow> -->
+
+<!--             <TableRow android:gravity="center_horizontal" > -->
+
+<!--                 <EditText -->
+<!--                     android:id="@+id/price" -->
+<!--                     style="@style/content" -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" /> -->
+<!--             </TableRow> -->
+
+            <TableRow android:gravity="center_horizontal" >
+
+                <TextView
+                    style="@style/label1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="备注" />
+            </TableRow>
+
+            <TableRow android:gravity="center_horizontal" >
+
+                <EditText
+                    android:id="@+id/bz"
+                    style="@style/content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+
+</RelativeLayout>

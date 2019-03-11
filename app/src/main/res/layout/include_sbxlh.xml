@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="40dp"
+    android:orientation="vertical" >
+
+    <LinearLayout style="@style/tablerow_sty" >
+
+        <TextView
+            android:id="@+id/tv_xlh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black" />
+
+        <AutoCompleteTextView
+            android:id="@+id/act_content"
+            style="@style/edittext_sty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#ff0190eb" />
+
+        <ImageView
+            style="@style/text_image"
+            android:contentDescription="@string/todo" />
+    </LinearLayout>
+
+    <View style="@style/view_sty" />
+
+</LinearLayout>

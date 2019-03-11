@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res"><file name="notification_bg" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable\notification_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable\notification_bg_low.xml" qualifiers="" type="drawable"/><file name="notification_icon_background" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable\notification_icon_background.xml" qualifiers="" type="drawable"/><file name="notification_tile_bg" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable\notification_tile_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-hdpi-v4\notification_bg_low_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-hdpi-v4\notification_bg_low_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-hdpi-v4\notification_bg_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-hdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-hdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-mdpi-v4\notification_bg_low_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-mdpi-v4\notification_bg_low_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-mdpi-v4\notification_bg_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-mdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-mdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_action_background" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-v21\notification_action_background.xml" qualifiers="v21" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-xhdpi-v4\notification_bg_low_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-xhdpi-v4\notification_bg_low_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-xhdpi-v4\notification_bg_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-xhdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\drawable-xhdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_action" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout\notification_action.xml" qualifiers="" type="layout"/><file name="notification_action_tombstone" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout\notification_action_tombstone.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout\notification_template_custom_big.xml" qualifiers="" type="layout"/><file name="notification_template_icon_group" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout\notification_template_icon_group.xml" qualifiers="" type="layout"/><file name="notification_template_part_chronometer" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout\notification_template_part_chronometer.xml" qualifiers="" type="layout"/><file name="notification_template_part_time" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout\notification_template_part_time.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout-v16\notification_template_custom_big.xml" qualifiers="v16" type="layout"/><file name="notification_action" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout-v21\notification_action.xml" qualifiers="v21" type="layout"/><file name="notification_action_tombstone" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout-v21\notification_action_tombstone.xml" qualifiers="v21" type="layout"/><file name="notification_template_custom_big" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout-v21\notification_template_custom_big.xml" qualifiers="v21" type="layout"/><file name="notification_template_icon_group" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\layout-v21\notification_template_icon_group.xml" qualifiers="v21" type="layout"/><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values\values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-af\values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-am\values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ar\values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-as\values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-az\values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-b+sr+Latn\values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-be\values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-bg\values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-bn\values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-bs\values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ca\values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-cs\values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-da\values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-de\values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-el\values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-en-rAU\values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-en-rCA\values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-en-rGB\values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-en-rIN\values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-en-rXC\values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-es\values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-es-rUS\values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-et\values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-eu\values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-fa\values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-fi\values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-fr\values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-fr-rCA\values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-gl\values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-gu\values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-hi\values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-hr\values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-hu\values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-hy\values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-in\values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-is\values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-it\values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-iw\values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ja\values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ka\values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-kk\values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-km\values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-kn\values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ko\values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ky\values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-lo\values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-lt\values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-lv\values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-mk\values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ml\values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-mn\values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-mr\values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ms\values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-my\values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-nb\values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ne\values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-nl\values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-or\values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-pa\values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-pl\values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-pt\values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-pt-rBR\values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-pt-rPT\values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ro\values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ru\values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-si\values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-sk\values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-sl\values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-sq\values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-sr\values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-sv\values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-sw\values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ta\values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-te\values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-th\values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-tl\values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-tr\values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-uk\values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-ur\values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-uz\values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-v16\values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-v21\values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0" from-dependency="true" generated-set="com.android.support:coordinatorlayout:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\res"><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\res\values\values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-media-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res"><file name="notification_media_action" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_media_action.xml" qualifiers="" type="layout"/><file name="notification_media_cancel_action" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_media_cancel_action.xml" qualifiers="" type="layout"/><file name="notification_template_big_media" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_big_media.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_custom" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_big_media_custom.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_narrow" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_big_media_narrow.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_narrow_custom" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_big_media_narrow_custom.xml" qualifiers="" type="layout"/><file name="notification_template_lines_media" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_lines_media.xml" qualifiers="" type="layout"/><file name="notification_template_media" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_media.xml" qualifiers="" type="layout"/><file name="notification_template_media_custom" path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\layout\notification_template_media_custom.xml" qualifiers="" type="layout"/><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\values\values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\values-v21\values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file><file path="C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\res\values-v24\values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\application\Android\workspace\kdgnt\app\src\main\res"/><source path="D:\application\Android\workspace\kdgnt\app\build\generated\res\rs\debug"/><source path="D:\application\Android\workspace\kdgnt\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\application\Android\workspace\kdgnt\app\src\main\res"><file name="alpha_rotate" path="D:\application\Android\workspace\kdgnt\app\src\main\res\anim\alpha_rotate.xml" qualifiers="" type="anim"/><file name="cycle_7" path="D:\application\Android\workspace\kdgnt\app\src\main\res\anim\cycle_7.xml" qualifiers="" type="anim"/><file name="fade" path="D:\application\Android\workspace\kdgnt\app\src\main\res\anim\fade.xml" qualifiers="" type="anim"/><file name="hold" path="D:\application\Android\workspace\kdgnt\app\src\main\res\anim\hold.xml" qualifiers="" type="anim"/><file name="shake" path="D:\application\Android\workspace\kdgnt\app\src\main\res\anim\shake.xml" qualifiers="" type="anim"/><file name="translate" path="D:\application\Android\workspace\kdgnt\app\src\main\res\anim\translate.xml" qualifiers="" type="anim"/><file name="appraise_radio" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\appraise_radio.xml" qualifiers="" type="drawable"/><file name="border" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\border.xml" qualifiers="" type="drawable"/><file name="btn_buttom" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\btn_buttom.xml" qualifiers="" type="drawable"/><file name="btn_normal" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\btn_normal.xml" qualifiers="" type="drawable"/><file name="btn_normal_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\btn_normal_yellow.xml" qualifiers="" type="drawable"/><file name="btn_single" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\btn_single.xml" qualifiers="" type="drawable"/><file name="bt_login" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\bt_login.xml" qualifiers="" type="drawable"/><file name="bt_top_back" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\bt_top_back.xml" qualifiers="" type="drawable"/><file name="camera" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\camera.xml" qualifiers="" type="drawable"/><file name="checkbox" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\checkbox.xml" qualifiers="" type="drawable"/><file name="dlg_radio" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\dlg_radio.xml" qualifiers="" type="drawable"/><file name="dot_focused" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\dot_focused.xml" qualifiers="" type="drawable"/><file name="dot_normal" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\dot_normal.xml" qualifiers="" type="drawable"/><file name="edittext" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\edittext.xml" qualifiers="" type="drawable"/><file name="line" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\line.xml" qualifiers="" type="drawable"/><file name="ls_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\ls_item.xml" qualifiers="" type="drawable"/><file name="pictures_select_icon" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\pictures_select_icon.xml" qualifiers="" type="drawable"/><file name="radiobox" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\radiobox.xml" qualifiers="" type="drawable"/><file name="spinner" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\spinner.xml" qualifiers="" type="drawable"/><file name="sure_radio" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable\sure_radio.xml" qualifiers="" type="drawable"/><file name="a" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\a.png" qualifiers="hdpi-v4" type="drawable"/><file name="add" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\add.png" qualifiers="hdpi-v4" type="drawable"/><file name="albums_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\albums_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="albums_icon_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\albums_icon_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="answer" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\answer.png" qualifiers="hdpi-v4" type="drawable"/><file name="appraise_radio_select_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\appraise_radio_select_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="apprsure_radiobutton_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\apprsure_radiobutton_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="ask" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ask.png" qualifiers="hdpi-v4" type="drawable"/><file name="b" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\b.png" qualifiers="hdpi-v4" type="drawable"/><file name="background_small" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\background_small.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="baidumap" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\baidumap.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_buttom_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_buttom_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_buttom_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_buttom_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_esp_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_esp_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_esp_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_esp_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_img_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_img_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_img_left" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_img_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_img_right" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_img_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_js_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_js_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_js_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_js_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_kc_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_kc_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_kc_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_kc_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_kdg_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_kdg_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_kdg_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_kdg_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_normal_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_normal_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_normal_down_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_normal_down_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_normal_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_normal_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_normal_up_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_normal_up_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_single_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_single_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_single_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_single_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_sy_point_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_sy_point_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_sy_point_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_sy_point_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_w_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_w_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_w_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\btn_w_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="bt_phone" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\bt_phone.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="bt_photograph" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\bt_photograph.png" qualifiers="hdpi-v4" type="drawable"/><file name="buttom_bar" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\buttom_bar.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="camera_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\camera_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="camera_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\camera_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="cha" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\cha.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_new_password" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\change_new_password.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_password" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\change_password.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_sure_password" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\change_sure_password.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_user" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\change_user.png" qualifiers="hdpi-v4" type="drawable"/><file name="checkbox_no" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\checkbox_no.png" qualifiers="hdpi-v4" type="drawable"/><file name="checkbox_yes" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\checkbox_yes.png" qualifiers="hdpi-v4" type="drawable"/><file name="close" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\close.png" qualifiers="hdpi-v4" type="drawable"/><file name="content_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\content_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="dlg_edittext" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\dlg_edittext.png" qualifiers="hdpi-v4" type="drawable"/><file name="dlg_radio_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\dlg_radio_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="dlg_radio_sleect_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\dlg_radio_sleect_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="dlg_title" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\dlg_title.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\down.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edit" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\edit.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\edittext_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\edittext_down.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\edittext_up.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="esp" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\esp.png" qualifiers="hdpi-v4" type="drawable"/><file name="e_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\e_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="fg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\fg.png" qualifiers="hdpi-v4" type="drawable"/><file name="fg_h" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\fg_h.png" qualifiers="hdpi-v4" type="drawable"/><file name="fg_s" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\fg_s.png" qualifiers="hdpi-v4" type="drawable"/><file name="friends_sends_pictures_no" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\friends_sends_pictures_no.png" qualifiers="hdpi-v4" type="drawable"/><file name="friends_sends_pictures_select_icon_selected" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\friends_sends_pictures_select_icon_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="friends_sends_pictures_select_icon_unselected" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\friends_sends_pictures_select_icon_unselected.png" qualifiers="hdpi-v4" type="drawable"/><file name="fwbg_1" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\fwbg_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="fwbg_2" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\fwbg_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="fwbg_3" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\fwbg_3.png" qualifiers="hdpi-v4" type="drawable"/><file name="ico15" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ico15.png" qualifiers="hdpi-v4" type="drawable"/><file name="ico16" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ico16.png" qualifiers="hdpi-v4" type="drawable"/><file name="ico17" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ico17.png" qualifiers="hdpi-v4" type="drawable"/><file name="ico18" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ico18.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="img_close" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\img_close.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="kuang" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\kuang.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="line_s" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\line_s.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_blue" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\list_item_blue.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_green" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\list_item_green.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_red" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\list_item_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_right" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\list_item_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\list_item_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\login_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_bg_0" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\login_bg_0.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_btn" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\login_btn.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_btn_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\login_btn_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_btn_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\login_btn_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_input" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\login_input.png" qualifiers="hdpi-v4" type="drawable"/><file name="logo" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="logo_0" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\logo_0.png" qualifiers="hdpi-v4" type="drawable"/><file name="ls_item_log" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ls_item_log.png" qualifiers="hdpi-v4" type="drawable"/><file name="ls_item_t16" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ls_item_t16.png" qualifiers="hdpi-v4" type="drawable"/><file name="mainmenu_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\mainmenu_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="marker_green" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\marker_green.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_blue" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_blue.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_blue" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_blue.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_fwbg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_fwbg.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_fwzxs" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_fwzxs.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_green" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_green.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_jdxy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_jdxy.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_jjjd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_jjjd.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_jqgdcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_jqgdcx.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_red" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_smdw" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_smdw.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_xxlr" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_xxlr.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_esp_zzbgsc" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_esp_zzbgsc.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_green" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_green.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_js_dqyskcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_js_dqyskcx.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_js_fyqr" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_js_fyqr.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_js_yslszcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_js_yslszcx.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kc_dqkccx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kc_dqkccx.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kc_wbdbck" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kc_wbdbck.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kc_wbdbrk" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kc_wbdbrk.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_blue" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_blue.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_dhjc" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_dhjc.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_fwbg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_fwbg.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_green" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_green.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_jdxy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_jdxy.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_red" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_smdw" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_smdw.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_kdg_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_kdg_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_red" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_gzz" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_gzz.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_gzzlr" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_gzzlr.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_help" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_help.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_jszl" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_jszl.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_qyyjg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_qyyjg.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_xgmm" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_xgmm.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_yhk" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_yhk.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_w_zyxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_w_zyxx.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_yellow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_zzbgsc" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\menu_zzbgsc.png" qualifiers="hdpi-v4" type="drawable"/><file name="name" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\name.png" qualifiers="hdpi-v4" type="drawable"/><file name="next_month" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\next_month.png" qualifiers="hdpi-v4" type="drawable"/><file name="part" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\part.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="password" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\password.png" qualifiers="hdpi-v4" type="drawable"/><file name="preview" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\preview.png" qualifiers="hdpi-v4" type="drawable"/><file name="previous_month" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\previous_month.png" qualifiers="hdpi-v4" type="drawable"/><file name="radiobox_no" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\radiobox_no.png" qualifiers="hdpi-v4" type="drawable"/><file name="radiobox_yes" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\radiobox_yes.png" qualifiers="hdpi-v4" type="drawable"/><file name="reg_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\reg_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="right_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\right_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="right_time" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\right_time.png" qualifiers="hdpi-v4" type="drawable"/><file name="ry_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\ry_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="search1" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\search1.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="search2" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\search2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_bg_down_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_bg_down_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_bg_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_bg_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_dzfwbg_down_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_dzfwbg_down_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_dzfwbg_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_dzfwbg_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_fx_down_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_fx_down_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_fx_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_fx_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_jbxx_down_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_jbxx_down_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="servicereport_jbxx_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\servicereport_jbxx_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\spinner_down.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\spinner_up.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="state_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\state_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="sure_radioutton_select_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\sure_radioutton_select_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="telphone" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\telphone.png" qualifiers="hdpi-v4" type="drawable"/><file name="time_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\time_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="topback_default" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\topback_default.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="topback_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\topback_down.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="top_back_down" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\top_back_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="top_back_up" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\top_back_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="top_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\top_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="top_title_bg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\top_title_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="u" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\u.png" qualifiers="hdpi-v4" type="drawable"/><file name="w_ico" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\w_ico.png" qualifiers="hdpi-v4" type="drawable"/><file name="xuxian_time" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\xuxian_time.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_001" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_001.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_002" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_002.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_003" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_003.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_004" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_004.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_005" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_005.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_006" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_006.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_007" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_007.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_008" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_008.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_009" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_009.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_011" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_011.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_013" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_013.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_014" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_014.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_015" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_015.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_016" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_016.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_017" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_017.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_019" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_019.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_021" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_021.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_022" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_022.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_023" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_023.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_026" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_026.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_027" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_027.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_029" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_029.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_030" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_030.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_031" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_031.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_032" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_032.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_033" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_033.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_034" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_034.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_035" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_035.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_036" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_036.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_037" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_037.png" qualifiers="hdpi-v4" type="drawable"/><file name="yh_099" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yh_099.png" qualifiers="hdpi-v4" type="drawable"/><file name="yytsearch" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-hdpi\yytsearch.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\application\Android\workspace\kdgnt\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_addparts" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_addparts.xml" qualifiers="" type="layout"/><file name="activity_addpartsadd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_addpartsadd.xml" qualifiers="" type="layout"/><file name="activity_addpj" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_addpj.xml" qualifiers="" type="layout"/><file name="activity_addpjlist" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_addpjlist.xml" qualifiers="" type="layout"/><file name="activity_bzfy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_bzfy.xml" qualifiers="" type="layout"/><file name="activity_changepassword" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_changepassword.xml" qualifiers="" type="layout"/><file name="activity_choosezfg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_choosezfg.xml" qualifiers="" type="layout"/><file name="activity_cjwt" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_cjwt.xml" qualifiers="" type="layout"/><file name="activity_cjwtshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_cjwtshow.xml" qualifiers="" type="layout"/><file name="activity_datafilter" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_datafilter.xml" qualifiers="" type="layout"/><file name="activity_dispatchinginformationreceiving" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_dispatchinginformationreceiving.xml" qualifiers="" type="layout"/><file name="activity_frame" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_frame.xml" qualifiers="" type="layout"/><file name="activity_fwbgxjwd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_fwbgxjwd.xml" qualifiers="" type="layout"/><file name="activity_fyqrcomplete" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_fyqrcomplete.xml" qualifiers="" type="layout"/><file name="activity_fyqr_list" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_fyqr_list.xml" qualifiers="" type="layout"/><file name="activity_help" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_help.xml" qualifiers="" type="layout"/><file name="activity_informationreceivingrefuse" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_informationreceivingrefuse.xml" qualifiers="" type="layout"/><file name="activity_jbxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_jbxx.xml" qualifiers="" type="layout"/><file name="activity_kcpd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kcpd.xml" qualifiers="" type="layout"/><file name="activity_kcpdshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kcpdshow.xml" qualifiers="" type="layout"/><file name="activity_kcshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kcshow.xml" qualifiers="" type="layout"/><file name="activity_kcxxshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kcxxshow.xml" qualifiers="" type="layout"/><file name="activity_kdg_dhjc" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_dhjc.xml" qualifiers="" type="layout"/><file name="activity_kdg_fwbg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_fwbg.xml" qualifiers="" type="layout"/><file name="activity_kdg_fwbgtzl" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_fwbgtzl.xml" qualifiers="" type="layout"/><file name="activity_kdg_fwbgwx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_fwbgwx.xml" qualifiers="" type="layout"/><file name="activity_kdg_jdxy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_jdxy.xml" qualifiers="" type="layout"/><file name="activity_kdg_jdxy_wx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_jdxy_wx.xml" qualifiers="" type="layout"/><file name="activity_kdg_jqgdcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_jqgdcx.xml" qualifiers="" type="layout"/><file name="activity_kdg_jqgdcxshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_jqgdcxshow.xml" qualifiers="" type="layout"/><file name="activity_kdg_kccxchoose" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_kccxchoose.xml" qualifiers="" type="layout"/><file name="activity_kdg_pjxgwx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_pjxgwx.xml" qualifiers="" type="layout"/><file name="activity_kdg_sbxxpd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_sbxxpd.xml" qualifiers="" type="layout"/><file name="activity_kdg_smdw" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_smdw.xml" qualifiers="" type="layout"/><file name="activity_kdg_smdw_wx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_smdw_wx.xml" qualifiers="" type="layout"/><file name="activity_kdg_xddwcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_xddwcx.xml" qualifiers="" type="layout"/><file name="activity_kdg_xddw_jdxy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_xddw_jdxy.xml" qualifiers="" type="layout"/><file name="activity_kdg_zzzp" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_kdg_zzzp.xml" qualifiers="" type="layout"/><file name="activity_liushuizhang" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_liushuizhang.xml" qualifiers="" type="layout"/><file name="activity_loading" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_loading.xml" qualifiers="" type="layout"/><file name="activity_login" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_ly" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_ly.xml" qualifiers="" type="layout"/><file name="activity_lyadd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_lyadd.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_p2cslr" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_p2cslr.xml" qualifiers="" type="layout"/><file name="activity_params" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_params.xml" qualifiers="" type="layout"/><file name="activity_pdmx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_pdmx.xml" qualifiers="" type="layout"/><file name="activity_pgdcase" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_pgdcase.xml" qualifiers="" type="layout"/><file name="activity_pgdmxcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_pgdmxcx.xml" qualifiers="" type="layout"/><file name="activity_pjfyquery" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_pjfyquery.xml" qualifiers="" type="layout"/><file name="activity_qyxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_qyxx.xml" qualifiers="" type="layout"/><file name="activity_qyxx_table" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_qyxx_table.xml" qualifiers="" type="layout"/><file name="activity_register" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_register.xml" qualifiers="" type="layout"/><file name="activity_register_agree" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_register_agree.xml" qualifiers="" type="layout"/><file name="activity_register_complete" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_register_complete.xml" qualifiers="" type="layout"/><file name="activity_register_confirm" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_register_confirm.xml" qualifiers="" type="layout"/><file name="activity_rgfyquery" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_rgfyquery.xml" qualifiers="" type="layout"/><file name="activity_ryxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_ryxx.xml" qualifiers="" type="layout"/><file name="activity_sbewm" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_sbewm.xml" qualifiers="" type="layout"/><file name="activity_sbxlh" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_sbxlh.xml" qualifiers="" type="layout"/><file name="activity_scxjsbxg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_scxjsbxg.xml" qualifiers="" type="layout"/><file name="activity_shebeipd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_shebeipd.xml" qualifiers="" type="layout"/><file name="activity_showgps" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_showgps.xml" qualifiers="" type="layout"/><file name="activity_showimg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_showimg.xml" qualifiers="" type="layout"/><file name="activity_singlein" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_singlein.xml" qualifiers="" type="layout"/><file name="activity_sqd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_sqd.xml" qualifiers="" type="layout"/><file name="activity_sqdmx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_sqdmx.xml" qualifiers="" type="layout"/><file name="activity_sqdshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_sqdshow.xml" qualifiers="" type="layout"/><file name="activity_tcpc" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_tcpc.xml" qualifiers="" type="layout"/><file name="activity_thxxshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_thxxshow.xml" qualifiers="" type="layout"/><file name="activity_uploadphoto" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_uploadphoto.xml" qualifiers="" type="layout"/><file name="activity_util_baidumap" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_util_baidumap.xml" qualifiers="" type="layout"/><file name="activity_util_imgchoose" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_util_imgchoose.xml" qualifiers="" type="layout"/><file name="activity_util_imgchoosepage" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_util_imgchoosepage.xml" qualifiers="" type="layout"/><file name="activity_util_imgpz" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_util_imgpz.xml" qualifiers="" type="layout"/><file name="activity_wbdbck" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_wbdbck.xml" qualifiers="" type="layout"/><file name="activity_wbdbckmx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_wbdbckmx.xml" qualifiers="" type="layout"/><file name="activity_wbdbrk" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_wbdbrk.xml" qualifiers="" type="layout"/><file name="activity_w_ccgd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_ccgd.xml" qualifiers="" type="layout"/><file name="activity_w_fwzxscx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_fwzxscx.xml" qualifiers="" type="layout"/><file name="activity_w_fwzxscxshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_fwzxscxshow.xml" qualifiers="" type="layout"/><file name="activity_w_pqzgjk" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_pqzgjk.xml" qualifiers="" type="layout"/><file name="activity_w_pqzgjsl" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_pqzgjsl.xml" qualifiers="" type="layout"/><file name="activity_w_pqzgjslshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_pqzgjslshow.xml" qualifiers="" type="layout"/><file name="activity_w_ryxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_ryxx.xml" qualifiers="" type="layout"/><file name="activity_w_ryxxlr" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_ryxxlr.xml" qualifiers="" type="layout"/><file name="activity_w_scsbb" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_scsbb.xml" qualifiers="" type="layout"/><file name="activity_w_yjgd" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_w_yjgd.xml" qualifiers="" type="layout"/><file name="activity_xj_fwbg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_xj_fwbg.xml" qualifiers="" type="layout"/><file name="activity_xj_jdxy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_xj_jdxy.xml" qualifiers="" type="layout"/><file name="activity_xj_show" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_xj_show.xml" qualifiers="" type="layout"/><file name="activity_xj_smdw" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_xj_smdw.xml" qualifiers="" type="layout"/><file name="activity_xxglshow" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_xxglshow.xml" qualifiers="" type="layout"/><file name="activity_yhk" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_yhk.xml" qualifiers="" type="layout"/><file name="activity_yhkinfo" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_yhkinfo.xml" qualifiers="" type="layout"/><file name="activity_yhkmb" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_yhkmb.xml" qualifiers="" type="layout"/><file name="activity_yigshoukuan" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_yigshoukuan.xml" qualifiers="" type="layout"/><file name="activity_ywsb" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_ywsb.xml" qualifiers="" type="layout"/><file name="activity_yytbz" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_yytbz.xml" qualifiers="" type="layout"/><file name="activity_zzpqgdcx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\activity_zzpqgdcx.xml" qualifiers="" type="layout"/><file name="ac_image_pager" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\ac_image_pager.xml" qualifiers="" type="layout"/><file name="bottom_button" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\bottom_button.xml" qualifiers="" type="layout"/><file name="buttom_bar" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\buttom_bar.xml" qualifiers="" type="layout"/><file name="calendar_main" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\calendar_main.xml" qualifiers="" type="layout"/><file name="chooseazxq_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\chooseazxq_item.xml" qualifiers="" type="layout"/><file name="datetime" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\datetime.xml" qualifiers="" type="layout"/><file name="definedspinner2_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\definedspinner2_item.xml" qualifiers="" type="layout"/><file name="details_dialog" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\details_dialog.xml" qualifiers="" type="layout"/><file name="dialog_erji" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\dialog_erji.xml" qualifiers="" type="layout"/><file name="include_checkbox" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_checkbox.xml" qualifiers="" type="layout"/><file name="include_fwqy" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_fwqy.xml" qualifiers="" type="layout"/><file name="include_line" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_line.xml" qualifiers="" type="layout"/><file name="include_menu" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_menu.xml" qualifiers="" type="layout"/><file name="include_popupwin" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_popupwin.xml" qualifiers="" type="layout"/><file name="include_sbxlh" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_sbxlh.xml" qualifiers="" type="layout"/><file name="include_xj_aqfx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_aqfx.xml" qualifiers="" type="layout"/><file name="include_xj_checkbox" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_checkbox.xml" qualifiers="" type="layout"/><file name="include_xj_pz" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_pz.xml" qualifiers="" type="layout"/><file name="include_xj_sbgn" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_sbgn.xml" qualifiers="" type="layout"/><file name="include_xj_text" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_text.xml" qualifiers="" type="layout"/><file name="include_xj_type_1" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_type_1.xml" qualifiers="" type="layout"/><file name="include_xj_type_2" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_type_2.xml" qualifiers="" type="layout"/><file name="include_xj_type_3" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_type_3.xml" qualifiers="" type="layout"/><file name="include_xj_type_4" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_type_4.xml" qualifiers="" type="layout"/><file name="include_xj_type_5" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\include_xj_type_5.xml" qualifiers="" type="layout"/><file name="item_grid_group" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\item_grid_group.xml" qualifiers="" type="layout"/><file name="item_grid_image" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\item_grid_image.xml" qualifiers="" type="layout"/><file name="item_grid_image_pz" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\item_grid_image_pz.xml" qualifiers="" type="layout"/><file name="item_pager_image" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\item_pager_image.xml" qualifiers="" type="layout"/><file name="listview_cjwt_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_cjwt_item.xml" qualifiers="" type="layout"/><file name="listview_dispatchinginformationreceiving_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_dispatchinginformationreceiving_item.xml" qualifiers="" type="layout"/><file name="listview_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item.xml" qualifiers="" type="layout"/><file name="listview_item_addpj" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_addpj.xml" qualifiers="" type="layout"/><file name="listview_item_filterdata" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_filterdata.xml" qualifiers="" type="layout"/><file name="listview_item_kcxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_kcxx.xml" qualifiers="" type="layout"/><file name="listview_item_lszzjl" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_lszzjl.xml" qualifiers="" type="layout"/><file name="listview_item_pjfyquery" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_pjfyquery.xml" qualifiers="" type="layout"/><file name="listview_item_qyxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_qyxx.xml" qualifiers="" type="layout"/><file name="listview_item_tcpclist" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_tcpclist.xml" qualifiers="" type="layout"/><file name="listview_item_zfg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_zfg.xml" qualifiers="" type="layout"/><file name="listview_item_zyxx" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_item_zyxx.xml" qualifiers="" type="layout"/><file name="listview_kfmx_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_kfmx_item.xml" qualifiers="" type="layout"/><file name="listview_kfpd_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_kfpd_item.xml" qualifiers="" type="layout"/><file name="listview_lsz_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_lsz_item.xml" qualifiers="" type="layout"/><file name="listview_ly_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_ly_item.xml" qualifiers="" type="layout"/><file name="listview_sqd_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\listview_sqd_item.xml" qualifiers="" type="layout"/><file name="list_dlg" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\list_dlg.xml" qualifiers="" type="layout"/><file name="machine_listview_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\machine_listview_item.xml" qualifiers="" type="layout"/><file name="main" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="mainmenu_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\mainmenu_item.xml" qualifiers="" type="layout"/><file name="notification" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\notification.xml" qualifiers="" type="layout"/><file name="notification_remont" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\notification_remont.xml" qualifiers="" type="layout"/><file name="push_expandable_big_image_notification" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\push_expandable_big_image_notification.xml" qualifiers="" type="layout"/><file name="push_expandable_big_text_notification" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\push_expandable_big_text_notification.xml" qualifiers="" type="layout"/><file name="push_pure_pic_notification" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\push_pure_pic_notification.xml" qualifiers="" type="layout"/><file name="spinner_dropdown_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\spinner_dropdown_item.xml" qualifiers="" type="layout"/><file name="spinner_item" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\spinner_item.xml" qualifiers="" type="layout"/><file name="spinner_item_register" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\spinner_item_register.xml" qualifiers="" type="layout"/><file name="spinner_item_yhk" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\spinner_item_yhk.xml" qualifiers="" type="layout"/><file name="top_title" path="D:\application\Android\workspace\kdgnt\app\src\main\res\layout\top_title.xml" qualifiers="" type="layout"/><file name="beep" path="D:\application\Android\workspace\kdgnt\app\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file name="strum" path="D:\application\Android\workspace\kdgnt\app\src\main\res\raw\strum.mp3" qualifiers="" type="raw"/><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="strzh">
+        <item>当前帐号</item>
+        <item>区域所有帐号</item>
+    </string-array><string-array name="strzt">
+        <item>未完结工单</item>
+        <item>完结工单</item>
+        <item>全部工单</item>
+    </string-array><string-array name="kdlx">
+        <item/>
+        <item>FTTB</item>
+        <item>FTTH</item>
+    </string-array><string-array name="gdly">
+        <item>400维护</item>
+        <item>CRM维护</item>
+        <item>升级投诉</item>
+        <item>CRM安装</item>
+        <item>EOMS安装</item>
+        <item>邮件安装</item>
+        <item>资管安装</item>
+    </string-array><string-array name="jglc">
+        <item/>
+        <item>楼顶</item>
+        <item>车库</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array><string-array name="sbxh">
+        <item/>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values\colors.xml" qualifiers=""><color name="listitem">#ffd6eaf9</color><color name="listitem_white">#fff7f7f7</color><color name="title_icon">#ff000000</color><color name="text_minor">#ff666666</color><color name="application_backcolor">#fff6eade</color><color name="login_font">#3D3E40</color><color name="calendar_background">#000000</color><color name="recordremind_background">#FFFFFF</color><color name="border_color">#FFFFFF</color><color name="weekname_color">#FFFFFF</color><color name="day_color">#FFFFFF</color><color name="inner_grid_color">#FFFFFF</color><color name="prev_next_month_day_color">#999999</color><color name="text_color">#FFFF00</color><color name="recordremindtext_color">#000000</color><color name="current_day_color">#FF0000</color><color name="today_background_color">#FF0000</color><color name="today_color">#FFFFFF</color><color name="sunday_saturday_color">#FF0000</color><color name="sunday_saturday_prev_next_month_day_color">#990000</color><color name="white">#ffffff</color><color name="black">#000000</color><color name="bgcolor">#ffffff</color><color name="txtcolor">#000000</color><color name="red">#FF3030</color><color name="Calendar_WeekBgColor">#EFE7DE</color><color name="Calendar_WeekFontColor">#8C8A8C</color><color name="Calendar_DayBgColor">#F7F7F7</color><color name="isHoliday_BgColor">#E0E0E0</color><color name="unPresentMonth_FontColor">#8C8A8C</color><color name="isPresentMonth_FontColor">#000000</color><color name="isToday_BgColor">#EBDCC1</color><color name="specialReminder">#FF0000</color><color name="commonReminder">#BDBAB5</color><color name="gray">#808080</color><color name="dlg_text_color">#ff0190eb</color><color name="contents_text">#ff000000</color><color name="encode_view">#ffffffff</color><color name="help_button_view">#ffcccccc</color><color name="help_view">#ff404040</color><color name="possible_result_points">#c0ffff00</color><color name="result_image_border">#ffffffff</color><color name="result_minor_text">#ffc0c0c0</color><color name="result_points">#c000ff00</color><color name="result_text">#ffffffff</color><color name="result_view">#b0000000</color><color name="sbc_header_text">#ff808080</color><color name="sbc_header_view">#ffffffff</color><color name="sbc_list_item">#fffff0e0</color><color name="sbc_layout_view">#ffffffff</color><color name="sbc_page_number_text">#ff000000</color><color name="sbc_snippet_text">#ff4b4b4b</color><color name="share_text">#ff000000</color><color name="share_view">#ffffffff</color><color name="status_view">#50000000</color><color name="status_text">#ffffffff</color><color name="transparent">#00000000</color><color name="viewfinder_frame">#ff000000</color><color name="viewfinder_laser">#ffff0000</color><color name="viewfinder_mask">#60000000</color><color name="yellow">#FFA500</color><color name="blue">#3689c2</color><color name="qianhui">#CDC9C9</color></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16.0dip</dimen><dimen name="activity_vertical_margin">16.0dip</dimen><dimen name="main__top">140dp</dimen></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values\ids.xml" qualifiers=""><item name="auto_focus" type="id"/><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="encode_succeeded" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="restart_preview" type="id"/><item name="return_scan_result" type="id"/><item name="search_book_contents_failed" type="id"/><item name="search_book_contents_succeeded" type="id"/></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">葵花心服</string><string name="action_settings">Settings</string><string name="search_hint">search_hint</string><string name="menu_settings">Settings</string><string name="operatorId">用户名：</string><string name="hint_input_id">请输入你的工号</string><string name="saveuser">记住帐号</string><string name="saveps">记住密码</string><string name="autologin">自动登录</string><string name="operatorPs">密码：</string><string name="hint_input_ps">请输入你的密码</string><string name="label_cancle">取消</string><string name="text_topback">返回</string><string name="text_toplogout">注销</string><string name="text_starttime">点击设置查询的开始时间</string><string name="text_endtime">点击设置查询的结束时间</string><string name="spinner_title">请选择需要派工的对象</string><string name="_f">设备信息</string><string name="_kfmc">客户名称：</string><string name="t_fbdw">发包单位：</string><string name="updateurl_dx">http://115.28.55.47:8000/esp_k_nt/kdgnt.apk</string><string name="updateurl_lt">http://221.7.112.52:8000/zdgl_pt/StmAfterServicegtDZPT.apk</string><string name="updateurl_yd">http://222.178.179.163:8000/zdgl_pt/StmAfterServicegtDZPT.apk</string><string name="serverurl">http://211.143.101.132:8000/zdapp_sj/update.xml</string><string name="t_yytm">营业厅名称</string><string name="t_yytm2">营业厅名称：</string><string name="t_bzyyt">报障营业厅：</string><string name="t_sbbm">设备编码：</string><string name="t_sbbm21">设备编码</string><string name="t_sbbm2">设 备 编 码：</string><string name="t_sbbm3">点此选择设备编码</string><string name="t_sbzl">设备种类：</string><string name="t_whcs">维护厂商：</string><string name="t_gjstart">告警开始时间：</string><string name="t_gjend">告警结束时间：</string><string name="t_gjknow">告警知晓确认：</string><string name="todo">TODO</string><string name="_0">0</string><string name="_xin">*</string><string name="_j">基本信息</string><string name="_fuwubaogaoxinxi">服务报告信息</string><string name="t_pgdh">工单号：</string><string name="t_yyt">营 业 厅 ：</string><string name="t_cljg">处理结果：</string><string name="t_sfsf">是否收费：</string><string name="t_djlx">单据类型：</string><string name="t_gzdl">故障大类：</string><string name="t_gzzl">故障中类：</string><string name="t_gzxl"> 故障小类：</string><string name="t_gzlb">故障类别：</string><string name="t_bzsj">报障时间：</string><string name="t_slsj">接单时间：</string><string name="t_ddsj">到达时间：</string><string name="t_wgsj">完工时间：</string><string name="t_sfhj">是否换件：</string><string name="_djs">待处理：</string><string name="_dxd">待销单：</string><string name="_wecome">"欢迎你 "</string><string name="mac">MAC地址：</string><string name="t_wxaz">业务类型：</string><string name="t_supq">客户所属片区：</string><string name="t_suqy">所属区域：</string><string name="t_kdzh">宽带帐号：</string><string name="t_kdmima">宽带密码：</string><string name="t_xxdz">详细地址：</string><string name="t_zsdz">真实地址：</string><string name="t_jsdw">结算位置：</string><string name="t_xzpj">新增配件：</string><string name="t_pjdl">配件大类：</string><string name="t_pjzl">配件中类：</string><string name="t_pjxl">配件小类：</string><string name="t_sl">数量：</string><string name="t_trzsblx">设备认证类型：</string><string name="t_fylxxm">费用类型/项目：</string><string name="t_fbr">发包人：</string><string name="t_sssqx">所属市区县：</string><string name="t_dyxz">地域性质：</string><string name="t_fbrdx">给发包人发送短信：</string><string name="t_khdx">给客户发送短信：</string><string name="t_fsdx">发送短信</string><string name="t_smsf">上门身份：</string><string name="t_kfyq">上门要求：</string><string name="t_bzr">客户网点/小区：</string><string name="t_kfxm">客户姓名：</string><string name="t_kfdh">客户手机：</string><string name="t_khdz">客户地址：</string><string name="t_lxdh">发包人手机：</string><string name="t_gzxx">报维内容：</string><string name="t_mmjpxlh">密码键盘序列号：</string><string name="t_eposcs">EPOS厂商：</string><string name="t_xh">型号：</string><string name="t_shbh">商户编号：</string><string name="t_bddh">绑定电话：</string><string name="t_CRMgdls">CRM工单流水号：</string><string name="t_servicepeople">服务人员：</string><string name="t_clfs">处理方式：</string><string name="t_ecyy">转派原因：</string><string name="t_yyyy">预约原因：</string><string name="t_gzlx">故障类型：</string><string name="t_gdly">工单来源：</string><string name="t_bz">备注：</string><string name="t_gdfy">工单费用：</string><string name="t_dwrywgyy">代维人员完工原因：</string><string name="t_dk">端口：</string><string name="t_sjgzyy">实际故障原因：</string><string name="t_yuyuetime">预约时间：</string><string name="t_yidongbaozhang">CRM工单时间：</string><string name="t_pjphone">手机号码：</string><string name="t_pjsurenum">验证码：</string><string name="t_confirm">确认</string><string name="t_username">姓名：</string><string name="t_lxdhr">联系电话：</string><string name="t_lxdhr2">备用联系电话：</string><string name="t_azxq">安装小区：</string><string name="t_xqlh">小区楼号：</string><string name="t_kdlx">宽带类型：</string><string name="t_fgld">覆盖楼栋：</string><string name="t_tcmc">套餐名称：</string><string name="t_sfzh">身份证号：</string><string name="t_csrq">出生日期：</string><string name="t_zjyxq1">证件有效期1：</string><string name="t_zjyxq2">证件有效期2：</string><string name="t_zjdz">证件地址：</string><string name="t_kzzf1">备注：</string><string name="t_zx">照相信息采集：</string></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="@android:style/Theme.Light"/><style name="AppTheme" parent="@style/AppBaseTheme"/><style name="table_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:layout_marginLeft">0.5dp</item>
+        <item name="android:layout_marginRight">0.5dp</item>
+        <item name="android:background">#ACCBF0</item>
+    </style><style name="label">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:padding">10.0sp</item>
+    </style><style name="blacktext">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style><style name="toplogout">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff0680ed</item>
+    </style><style name="confirm">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style><style name="toptitle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style><style name="showuserid">
+        <item name="android:textSize">29.0sp</item>
+        <item name="android:textColor">#ff0680ed</item>
+    </style><style name="mydialog">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff0190eb</item>
+    </style><style name="MyCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:button">@drawable/checkbox</item>
+        <item name="android:maxHeight">10.0sp</item>
+    </style><style name="confirminfo">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff0190eb</item>
+    </style><style name="label1">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style><style name="RadioButton_appraise" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:paddingLeft">80.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@drawable/appraise_radio</item>
+        <item name="android:maxHeight">16.0sp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style><style name="dlg_radiobutton" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:paddingLeft">100.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:button">@drawable/dlg_radio</item>
+        <item name="android:maxHeight">10.0sp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style><style name="content">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style><style name="main_ss">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">0.5dip</item>
+    </style><style name="tablerow_sty">
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">40dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="text_image">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/right_ico</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style><style name="edittext_sty">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/edittext_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">15sp</item>
+    </style><style name="view_sty">
+        <item name="android:background">#ffb8b8b8</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dip</item>
+    </style><style name="dot_style">
+        <item name="android:layout_width">5dip</item>
+        <item name="android:layout_height">5dip</item>
+        <item name="android:background">@drawable/dot_normal</item>
+        <item name="android:layout_marginLeft">1.5dip</item>
+        <item name="android:layout_marginRight">1.5dip</item>
+    </style><style name="ProgressBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal"/></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\application\Android\workspace\kdgnt\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file name="file_paths" path="D:\application\Android\workspace\kdgnt\app\src\main\res\xml\file_paths.xml" qualifiers="" type="xml"/></source><source path="D:\application\Android\workspace\kdgnt\app\build\generated\res\rs\debug"/><source path="D:\application\Android\workspace\kdgnt\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\application\Android\workspace\kdgnt\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\application\Android\workspace\kdgnt\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

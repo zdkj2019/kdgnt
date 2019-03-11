@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">葵花心服</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">search_hint</string>
+    <string name="menu_settings">Settings</string>
+    <string name="operatorId">用户名：</string>
+    <string name="hint_input_id">请输入你的工号</string>
+    <string name="saveuser">记住帐号</string>
+    <string name="saveps">记住密码</string>
+    <string name="autologin">自动登录</string>
+    <string name="operatorPs">密码：</string>
+    <string name="hint_input_ps">请输入你的密码</string>
+    <string name="label_cancle">取消</string>
+    <string name="text_topback">返回</string>
+    <string name="text_toplogout">注销</string>
+    <string name="text_starttime">点击设置查询的开始时间</string>
+    <string name="text_endtime">点击设置查询的结束时间</string>
+    <string name="spinner_title">请选择需要派工的对象</string>
+    <string name="_f">设备信息</string>
+    <string name="_kfmc">客户名称：</string>
+    <string name="t_fbdw">发包单位：</string>
+   	 <!--
+          http://183.230.9.100:8000/zdgl_lf/StmAfterServicelf.apk 
+     	  http://211.143.101.132:8000/zdapp_sj/StmAfterServicelf.apk
+
+    -->
+   	<!--电信app 下载地址  -->		
+    <string name="updateurl_dx">http://115.28.55.47:8000/esp_k_nt/kdgnt.apk</string>
+    <!--联通app 下载地址  -->
+    <string name="updateurl_lt">http://221.7.112.52:8000/zdgl_pt/StmAfterServicegtDZPT.apk</string>
+    <!--移动app 下载地址  -->
+    <string name="updateurl_yd">http://222.178.179.163:8000/zdgl_pt/StmAfterServicegtDZPT.apk</string>
+ 
+    <string name="serverurl">http://211.143.101.132:8000/zdapp_sj/update.xml</string>
+    <string name="t_yytm">营业厅名称</string>
+    <string name="t_yytm2">营业厅名称：</string>
+    <string name="t_bzyyt">报障营业厅：</string>
+    <string name="t_sbbm">设备编码：</string>
+    <string name="t_sbbm21">设备编码</string>
+    <string name="t_sbbm2">设 备 编 码：</string>
+    <string name="t_sbbm3">点此选择设备编码</string>
+    <string name="t_sbzl">设备种类：</string>
+    <string name="t_whcs">维护厂商：</string>
+    <string name="t_gjstart">告警开始时间：</string>
+    <string name="t_gjend">告警结束时间：</string>
+    <string name="t_gjknow">告警知晓确认：</string>
+    <string name="todo">TODO</string>
+    <string name="_0">0</string>
+    <string name="_xin">*</string>
+    <string name="_j">基本信息</string>
+    <string name="_fuwubaogaoxinxi">服务报告信息</string>
+    <string name="t_pgdh">工单号：</string>
+    <string name="t_yyt">营 业 厅 ：</string>
+    <string name="t_cljg">处理结果：</string>
+    <string name="t_sfsf">是否收费：</string>
+    <string name="t_djlx">单据类型：</string>
+    <string name="t_gzdl">故障大类：</string>
+    <string name="t_gzzl">故障中类：</string>
+    <string name="t_gzxl"> 故障小类：</string>
+    <string name="t_gzlb">故障类别：</string>
+    <string name="t_bzsj">报障时间：</string>
+    <string name="t_slsj">接单时间：</string>
+    <string name="t_ddsj">到达时间：</string>
+    <string name="t_wgsj">完工时间：</string>
+    <string name="t_sfhj">是否换件：</string>
+    <string name="_djs">待处理：</string>
+    <string name="_dxd">待销单：</string>
+    <string name="_wecome">"欢迎你 "</string>
+    <string name="mac">MAC地址：</string>
+	<!-- /////// -->
+    <string name="t_wxaz">业务类型：</string>
+    <string name="t_supq">客户所属片区：</string>
+    <string name="t_suqy">所属区域：</string>
+    <string name="t_kdzh">宽带帐号：</string>
+    <string name="t_kdmima">宽带密码：</string>
+    <string name="t_xxdz">详细地址：</string>
+    <string name="t_zsdz">真实地址：</string>
+    <string name="t_jsdw">结算位置：</string>
+    <string name="t_xzpj">新增配件：</string>
+    <string name="t_pjdl">配件大类：</string>
+    <string name="t_pjzl">配件中类：</string>
+    <string name="t_pjxl">配件小类：</string>
+    <string name="t_sl">数量：</string>
+    <string name="t_trzsblx">设备认证类型：</string>
+    <string name="t_fylxxm">费用类型/项目：</string>
+    <string name="t_fbr">发包人：</string>
+    <string name="t_sssqx">所属市区县：</string>
+    <string name="t_dyxz">地域性质：</string>
+    <string name="t_fbrdx">给发包人发送短信：</string>
+    <string name="t_khdx">给客户发送短信：</string>
+    <string name="t_fsdx">发送短信</string>
+    
+    <string name="t_smsf">上门身份：</string>
+    <string name="t_kfyq">上门要求：</string>
+    <string name="t_bzr">客户网点/小区：</string>
+    <string name="t_kfxm">客户姓名：</string>
+    <string name="t_kfdh">客户手机：</string>
+    <string name="t_khdz">客户地址：</string>
+    <string name="t_lxdh">发包人手机：</string>
+    <string name="t_gzxx">报维内容：</string>
+    <string name ="t_mmjpxlh">密码键盘序列号：</string>
+    <string name ="t_eposcs">EPOS厂商：</string>
+    <string name ="t_xh">型号：</string>
+    <string name ="t_shbh">商户编号：</string>
+    <string name ="t_bddh">绑定电话：</string>
+    <string name="t_CRMgdls">CRM工单流水号：</string>
+    <string name="t_servicepeople">服务人员：</string>
+    <string name="t_clfs">处理方式：</string>
+    <string name="t_ecyy">转派原因：</string>
+    <string name="t_yyyy">预约原因：</string>
+    <string name="t_gzlx">故障类型：</string>
+    <string name="t_gdly">工单来源：</string>
+    <string name="t_bz">备注：</string>
+    <string name="t_gdfy">工单费用：</string>
+    <string name="t_dwrywgyy">代维人员完工原因：</string>
+    <string name="t_dk">端口：</string>
+    <string name="t_sjgzyy">实际故障原因：</string>
+    <string name="t_yuyuetime">预约时间：</string>
+    <string name="t_yidongbaozhang">CRM工单时间：</string>
+    <string name="t_pjphone">手机号码：</string>
+    <string name="t_pjsurenum">验证码：</string>
+    <string name="t_confirm">确认</string>
+    
+    <string name="t_username">姓名：</string>
+    <!-- <string name="t_xb">性别:</string> -->
+    <string name="t_lxdhr">联系电话：</string>
+    <string name="t_lxdhr2">备用联系电话：</string>
+    <string name="t_azxq">安装小区：</string>
+    <string name="t_xqlh">小区楼号：</string>
+    <string name="t_kdlx">宽带类型：</string>
+    <string name="t_fgld">覆盖楼栋：</string>
+    <string name="t_tcmc">套餐名称：</string>
+    <string name="t_sfzh">身份证号：</string>
+    <string name="t_csrq">出生日期：</string>
+    <string name="t_zjyxq1">证件有效期1：</string>
+    <string name="t_zjyxq2">证件有效期2：</string>
+    <string name="t_zjdz">证件地址：</string>
+    <string name="t_kzzf1">备注：</string>
+    <string name="t_zx">照相信息采集：</string>
+    
+</resources>

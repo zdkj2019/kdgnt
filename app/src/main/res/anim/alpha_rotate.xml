@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false" >
+
+<!--  	
+android:fromAlpha="0.0"   透明 
+android:toAlpha="1.0"     不透明
+android:duration="6000"   持续6000毫秒
+android:pivotX="50%"      x旋转轴
+android:fromDegrees="0"   起始角度
+android:interpolator      插入器
+ -->
+    <alpha
+        android:duration="@android:integer/config_mediumAnimTime"
+        android:fromAlpha="0.0"
+        android:repeatCount="0"
+        android:toAlpha="1.0" >
+    </alpha>
+
+    <rotate
+        android:duration="6000"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:fromDegrees="0"
+        android:toDegrees="+350" />
+
+</set>
